@@ -474,10 +474,6 @@ https://github.com/atharvachaudhari1/travell.git
 
 ## 🚀 Team Arka
 
-**Team Leader:** Bhakti Nimaj
-
-**Email:** bhaktinimaj94@gmail.com
-
 ------------------------------------------------------------------------
 
 # 🏆 HackCelestial 3.0
