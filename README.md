@@ -1,4 +1,4 @@
-# ARKA --- AI Travel Planner & Disruption Recovery Engine ✈️
+# ARKA -- AI Travel Planner & Disruption Recovery Engine ✈️
 
 > **Transforming fragile travel itineraries into resilient journeys.**
 
