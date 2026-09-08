@@ -2,6 +2,8 @@
 
 Solo travel planning powered by Google Gemini AI + Groq fallback, with a deterministic travel-disruption recovery engine.
 
+LIVE DEPLOIED LINK: arkaa.online/travell
+
 ## Features
 - 🗺 AI Trip Planner
 - 💰 Travel Wallet
