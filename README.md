@@ -1,8 +1,8 @@
-﻿# ARKA — AI Travel Planner ✈️
+# ARKA — AI Travel Planner ✈️
 
 Solo travel planning powered by Google Gemini AI + Groq fallback, with a deterministic travel-disruption recovery engine.
 
-LIVE DEPLOIED LINK: arkaa.online/travell
+**🚀 LIVE DEMO:** [arkaa.online/travell](https://arkaa.online/travell)
 
 ## Features
 - 🗺 AI Trip Planner
