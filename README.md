@@ -18,10 +18,6 @@ Intelligent Travel Resilience\
 
 ------------------------------------------------------------------------
 
-## 🚀 Live Demo
-
-🌐 **[arkaa.online/travell](https://arkaa.online/travell)**
-
 Experience the ARKA travel planning and disruption recovery system live.
 
 ------------------------------------------------------------------------
